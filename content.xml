@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260414202654J573N9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604142026544U24TW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Pequeños detectives de historias</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmen Aivar Sánchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida a alumnado de 1º de Educación Primaria en la que se trabaja la comprensión y creación de cuentos a través del uso de herramientas digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776185764436</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>ccc7137a-c27b-4f6a-bf2b-c742696661f7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185825712-lnncgorq8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185825712-lnncgorq8</odePageId>
+      <odeBlockId>block-1776185999611-jiiwznvz4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185825712-lnncgorq8</odePageId>
+          <odeBlockId>block-1776185999611-jiiwznvz4</odeBlockId>
+          <odeIdeviceId>idevice-1776185999606-zkb8tmc3d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto titulado ‘Pequeños detectives de historias’ está dirigido al alumnado de 1º de Educación Primaria. A través de diferentes actividades, el alumnado aprenderá a comprender y crear cuentos, utilizando herramientas digitales de forma sencilla y guiada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776185999606-zkb8tmc3d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto titulado ‘Pequeños detectives de historias’ está dirigido al alumnado de 1º de Educación Primaria. A través de diferentes actividades, el alumnado aprenderá a comprender y crear cuentos, utilizando herramientas digitales de forma sencilla y guiada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185837944-olxcphy1x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185837944-olxcphy1x</odePageId>
+      <odeBlockId>block-1776186077029-3bfjcfv59</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185837944-olxcphy1x</odePageId>
+          <odeBlockId>block-1776186077029-3bfjcfv59</odeBlockId>
+          <odeIdeviceId>idevice-1776186077026-m6zd51ry6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es importante utilizar las herramientas digitales de forma segura, respetando la privacidad y los datos personales.</p>
+<p><img src="{{context_path}}/content/resources/2.3 INFOGRAFÍA SEGURIDAD.jpg" width="285" height="713" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776186077026-m6zd51ry6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante utilizar las herramientas digitales de forma segura, respetando la privacidad y los datos personales.</p>\n<p><img src=\"{{context_path}}/content/resources/2.3 INFOGRAFÍA SEGURIDAD.jpg\" width=\"285\" height=\"713\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776185837944-olxcphy1x</odePageId>
+      <odeBlockId>block-1776186280914-jcu64f1d5</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185837944-olxcphy1x</odePageId>
+          <odeBlockId>block-1776186280914-jcu64f1d5</odeBlockId>
+          <odeIdeviceId>idevice-1776186280910-16pmbvirt</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185850731-i6ssrv9go</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185850731-i6ssrv9go</odePageId>
+      <odeBlockId>block-1776187125935-juwequm13</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185850731-i6ssrv9go</odePageId>
+          <odeBlockId>block-1776187125935-juwequm13</odeBlockId>
+          <odeIdeviceId>idevice-1776187125932-kpaj4ez3i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado elaborará un cuento digital utilizando herramientas como Canva, aplicando los conocimientos adquiridos sobre la estructura del cuento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187125932-kpaj4ez3i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado elaborará un cuento digital utilizando herramientas como Canva, aplicando los conocimientos adquiridos sobre la estructura del cuento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185860313-5cveoug5m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185860313-5cveoug5m</odePageId>
+      <odeBlockId>block-1776187237134-lbdudb5kx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185860313-5cveoug5m</odePageId>
+          <odeBlockId>block-1776187237134-lbdudb5kx</odeBlockId>
+          <odeIdeviceId>idevice-1776187237131-nc8uduw5x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del proyecto se utilizarán los siguientes recursos digitales:</p>
+<p><a href="https://padlet.com/asancar688/recursos-para-crear-nuestro-cuento-digital-h5shukztged8g3co" title="">Padlet: Recursos para crear nuestro cuento digital</a></p>
+<p><a href="https://www.symbaloo.com/home/mix/13eP2K2DS5" title="">Symbaloo: Herramientas digitales del aula</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187237131-nc8uduw5x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del proyecto se utilizarán los siguientes recursos digitales:</p>\n<p><a href=\"https://padlet.com/asancar688/recursos-para-crear-nuestro-cuento-digital-h5shukztged8g3co\" title=\"\">Padlet: Recursos para crear nuestro cuento digital</a></p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eP2K2DS5\" title=\"\">Symbaloo: Herramientas digitales del aula</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185868288-yk3w0riq6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185868288-yk3w0riq6</odePageId>
+      <odeBlockId>block-1776187942856-h08rcu2f7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185868288-yk3w0riq6</odePageId>
+          <odeBlockId>block-1776187942856-h08rcu2f7</odeBlockId>
+          <odeIdeviceId>idevice-1776187942853-pb46t10zf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se desarrollará a lo largo de diferentes sesiones en las que el alumnado irá descubriendo y creando su propio cuento digital.</p>
+<p><strong>Sesión 1: </strong>Escuchamos un cuento.<br />El alumnado escucha un cuentacuentos para comprender la historia y sus personajes.</p>
+<p><strong></strong></p>
+<p><strong>Sesión 2: </strong>Las partes del cuento.<br />Identificamos inicio, nudo y desenlace a través de recursos digitales guiados.</p>
+<p></p>
+<p><strong>Sesión 3:</strong> Analizamos cuentos.<br />Comentamos cuentos en grupo y reflexionamos sobre su estructura.</p>
+<p></p>
+<p><strong>Sesión 4 y 5:</strong> Creamos nuestro borrador.<br />El alumnado escribe su propio cuento de forma individual en papel.</p>
+<p></p>
+<p><strong>Sesión 6 y 7</strong>: Creamos el cuento digital.<br />Digitalizamos el cuento utilizando herramientas como Canva o Book Creator.</p>
+<p></p>
+<p><strong>Sesión 8 y 9:</strong> Exponemos nuestro cuento.<br />El alumnado presenta su cuento al grupo, trabajando la expresión oral.</p>
+<p></p>
+<p><strong>Sesión 10</strong>: Evaluamos lo aprendido.<br />Realizamos una autoevaluación y reflexionamos sobre el proceso de aprendizaje.</p>
+<p></p>
+<p><strong>Metodología</strong>: aprendizaje activo, trabajo cooperativo y uso responsable de la tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187942853-pb46t10zf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se desarrollará a lo largo de diferentes sesiones en las que el alumnado irá descubriendo y creando su propio cuento digital.</p>\n<p><strong>Sesión 1: </strong>Escuchamos un cuento.<br />El alumnado escucha un cuentacuentos para comprender la historia y sus personajes.</p>\n<p><strong></strong></p>\n<p><strong>Sesión 2: </strong>Las partes del cuento.<br />Identificamos inicio, nudo y desenlace a través de recursos digitales guiados.</p>\n<p></p>\n<p><strong>Sesión 3:</strong> Analizamos cuentos.<br />Comentamos cuentos en grupo y reflexionamos sobre su estructura.</p>\n<p></p>\n<p><strong>Sesión 4 y 5:</strong> Creamos nuestro borrador.<br />El alumnado escribe su propio cuento de forma individual en papel.</p>\n<p></p>\n<p><strong>Sesión 6 y 7</strong>: Creamos el cuento digital.<br />Digitalizamos el cuento utilizando herramientas como Canva o Book Creator.</p>\n<p></p>\n<p><strong>Sesión 8 y 9:</strong> Exponemos nuestro cuento.<br />El alumnado presenta su cuento al grupo, trabajando la expresión oral.</p>\n<p></p>\n<p><strong>Sesión 10</strong>: Evaluamos lo aprendido.<br />Realizamos una autoevaluación y reflexionamos sobre el proceso de aprendizaje.</p>\n<p></p>\n<p><strong>Metodología</strong>: aprendizaje activo, trabajo cooperativo y uso responsable de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185880281-vdc9kyuap</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185880281-vdc9kyuap</odePageId>
+      <odeBlockId>block-1776188242383-0wwgix7k9</odeBlockId>
+      <blockName>Rúbrica de evaluación del cuento digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185880281-vdc9kyuap</odePageId>
+          <odeBlockId>block-1776188242383-0wwgix7k9</odeBlockId>
+          <odeIdeviceId>idevice-1776188242381-0w6youn6b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del proyecto se llevará a cabo mediante diferentes instrumentos que permitirán valorar el proceso de aprendizaje del alumnado de forma continua y formativa.</p>
+<p>Se utilizarán los siguientes instrumentos:</p>
+<p><strong>Rúbrica de evaluación:</strong> para valorar la creación del cuento digital (estructura, expresión escrita, creatividad, uso de herramientas digitales y exposición oral).</p>
+<p><br />Lista de cotejo: para observar el desarrollo de las actividades y la participación del alumnado.</p>
+<p><br /><strong>Diana de autoevaluación:</strong> para que el alumnado reflexione sobre su propio aprendizaje.<br />Estos instrumentos permitirán recoger información variada y facilitarán la mejora del proceso de enseñanza-aprendizaje.</p>
+<p><img src="{{context_path}}/content/resources/Rúbrica creación de un cuento digital.jpg" title="Rúbrica de evaluación" width="212" height="150" alt="Rúbrica de evaluación" />                         </p>
+<p><br /></p>
+<p></p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776188242381-0w6youn6b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del proyecto se llevará a cabo mediante diferentes instrumentos que permitirán valorar el proceso de aprendizaje del alumnado de forma continua y formativa.</p>\n<p>Se utilizarán los siguientes instrumentos:</p>\n<p><strong>Rúbrica de evaluación:</strong> para valorar la creación del cuento digital (estructura, expresión escrita, creatividad, uso de herramientas digitales y exposición oral).</p>\n<p><br />Lista de cotejo: para observar el desarrollo de las actividades y la participación del alumnado.</p>\n<p><br /><strong>Diana de autoevaluación:</strong> para que el alumnado reflexione sobre su propio aprendizaje.<br />Estos instrumentos permitirán recoger información variada y facilitarán la mejora del proceso de enseñanza-aprendizaje.</p>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica creación de un cuento digital.jpg\" title=\"Rúbrica de evaluación\" width=\"212\" height=\"150\" alt=\"Rúbrica de evaluación\" />                         </p>\n<p><br /></p>\n<p></p>\n<p></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776185880281-vdc9kyuap</odePageId>
+      <odeBlockId>block-1776189432317-pf1z18p14</odeBlockId>
+      <blockName>Diana de evaluación del cuento digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185880281-vdc9kyuap</odePageId>
+          <odeBlockId>block-1776189432317-pf1z18p14</odeBlockId>
+          <odeIdeviceId>idevice-1776189432316-ucpayuady</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Diana de autoevaluación mi cuento digital.jpg" title="Diana de evalución" alt="" width="295" height="209" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776189432316-ucpayuady","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diana de autoevaluación mi cuento digital.jpg\" title=\"Diana de evalución\" alt=\"\" width=\"295\" height=\"209\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185889441-bemwvqkfx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185889441-bemwvqkfx</odePageId>
+      <odeBlockId>block-1776189867112-1gkc0qgdx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185889441-bemwvqkfx</odePageId>
+          <odeBlockId>block-1776189867112-1gkc0qgdx</odeBlockId>
+          <odeIdeviceId>idevice-1776189867110-gj3r5r7ya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong>Guía didáctica del proyecto</strong></span></p>
+<p><strong>1. Descripción del proyecto</strong></p>
+<p>Este proyecto, titulado “Pequeños detectives de historias”, está dirigido al alumnado de Educación Primaria y tiene como finalidad el desarrollo de la competencia comunicativa a través de la creación de un cuento digital.</p>
+<p>A lo largo de diferentes sesiones, el alumnado conocerá las partes del cuento, analizará historias y elaborará su propio relato utilizando herramientas digitales, fomentando la creatividad, la expresión escrita y la competencia digital.</p>
+<p></p>
+<p><strong>2. Producto final</strong></p>
+<p>El producto final consiste en la creación y exposición de un cuento digital elaborado con herramientas como Canva, en el que el alumnado aplicará los conocimientos adquiridos sobre la estructura del cuento (inicio, nudo y desenlace).</p>
+<p></p>
+<p><strong>3. Metodología</strong></p>
+<p>Se emplea una metodología activa y participativa basada en el aprendizaje significativo, el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>
+<p>El alumnado será protagonista de su aprendizaje, participando en actividades prácticas, reflexivas y creativas.</p>
+<p></p>
+<p>4<strong>. Atención a la diversidad (DUA)</strong></p>
+<p>Se aplican principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de representación, acción y expresión.</p>
+<p>Se adaptan las actividades según las necesidades del alumnado, proporcionando apoyos visuales, trabajo en grupo y uso de recursos digitales accesibles.</p>
+<p></p>
+<p><strong>5. Evaluación</strong></p>
+<p>La evaluación será continua, formativa y global.</p>
+<p>Se utilizarán diversos instrumentos como:</p>
+<ul>
+<li>Rúbrica de evaluación</li>
+<li>Lista de cotejo</li>
+<li>Diana de autoevaluación</li>
+</ul>
+<p>Estos instrumentos permitirán valorar tanto el proceso como el producto final, así como fomentar la reflexión del alumnado sobre su propio aprendizaje.</p>
+<p></p>
+<p><strong>6. Relación con criterios de evaluación</strong><br /></p>
+<p>Las actividades del proyecto están relacionadas con los criterios de evaluación del área de Lengua Castellana y Literatura, especialmente aquellos vinculados a:</p>
+<ul>
+<li>Comprensión de textos orales</li>
+<li>Producción de textos escritos</li>
+<li>Expresión oral</li>
+<li>Uso de herramientas digitales</li>
+</ul>
+<p>Este proyecto contribuye al desarrollo de la competencia digital del alumnado, fomentando un uso seguro, responsable y creativo de las tecnologías.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776189867110-gj3r5r7ya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong>Guía didáctica del proyecto</strong></span></p>\n<p><strong>1. Descripción del proyecto</strong></p>\n<p>Este proyecto, titulado “Pequeños detectives de historias”, está dirigido al alumnado de Educación Primaria y tiene como finalidad el desarrollo de la competencia comunicativa a través de la creación de un cuento digital.</p>\n<p>A lo largo de diferentes sesiones, el alumnado conocerá las partes del cuento, analizará historias y elaborará su propio relato utilizando herramientas digitales, fomentando la creatividad, la expresión escrita y la competencia digital.</p>\n<p></p>\n<p><strong>2. Producto final</strong></p>\n<p>El producto final consiste en la creación y exposición de un cuento digital elaborado con herramientas como Canva, en el que el alumnado aplicará los conocimientos adquiridos sobre la estructura del cuento (inicio, nudo y desenlace).</p>\n<p></p>\n<p><strong>3. Metodología</strong></p>\n<p>Se emplea una metodología activa y participativa basada en el aprendizaje significativo, el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>\n<p>El alumnado será protagonista de su aprendizaje, participando en actividades prácticas, reflexivas y creativas.</p>\n<p></p>\n<p>4<strong>. Atención a la diversidad (DUA)</strong></p>\n<p>Se aplican principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de representación, acción y expresión.</p>\n<p>Se adaptan las actividades según las necesidades del alumnado, proporcionando apoyos visuales, trabajo en grupo y uso de recursos digitales accesibles.</p>\n<p></p>\n<p><strong>5. Evaluación</strong></p>\n<p>La evaluación será continua, formativa y global.</p>\n<p>Se utilizarán diversos instrumentos como:</p>\n<ul>\n<li>Rúbrica de evaluación</li>\n<li>Lista de cotejo</li>\n<li>Diana de autoevaluación</li>\n</ul>\n<p>Estos instrumentos permitirán valorar tanto el proceso como el producto final, así como fomentar la reflexión del alumnado sobre su propio aprendizaje.</p>\n<p></p>\n<p><strong>6. Relación con criterios de evaluación</strong><br /></p>\n<p>Las actividades del proyecto están relacionadas con los criterios de evaluación del área de Lengua Castellana y Literatura, especialmente aquellos vinculados a:</p>\n<ul>\n<li>Comprensión de textos orales</li>\n<li>Producción de textos escritos</li>\n<li>Expresión oral</li>\n<li>Uso de herramientas digitales</li>\n</ul>\n<p>Este proyecto contribuye al desarrollo de la competencia digital del alumnado, fomentando un uso seguro, responsable y creativo de las tecnologías.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185900211-fdc0d3248</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185900211-fdc0d3248</odePageId>
+      <odeBlockId>block-1776190493713-yi9u8032g</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185900211-fdc0d3248</odePageId>
+          <odeBlockId>block-1776190493713-yi9u8032g</odeBlockId>
+          <odeIdeviceId>idevice-1776190493711-mixa1twdn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong> Carmen Aivar Sánchez</p>
+<p><strong>Descripción:</strong><br />Este recurso educativo forma parte del proyecto “Pequeños detectives de historias”, dirigido al alumnado de Educación Primaria para el desarrollo de la competencia comunicativa y digital a través de la creación de un cuento digital.</p>
+<p><strong>Licencia:</strong><br />Licencia Creative Commons Atribución-Compartir Igual 4.0 (CC BY-SA 4.0)<br /></p>
+<p><strong>Herramientas utilizadas:</strong><br />Canva y eXeLearning<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776190493711-mixa1twdn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong> Carmen Aivar Sánchez</p>\n<p><strong>Descripción:</strong><br />Este recurso educativo forma parte del proyecto “Pequeños detectives de historias”, dirigido al alumnado de Educación Primaria para el desarrollo de la competencia comunicativa y digital a través de la creación de un cuento digital.</p>\n<p><strong>Licencia:</strong><br />Licencia Creative Commons Atribución-Compartir Igual 4.0 (CC BY-SA 4.0)<br /></p>\n<p><strong>Herramientas utilizadas:</strong><br />Canva y eXeLearning<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
