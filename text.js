@@ -48,7 +48,37 @@
 <div class="box-content">
 <div id="idevice-1776353797128-098qpumgh" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1776353797128-098qpumgh&quot;}">
 <div class="exe-text-template">
-    <p>La evaluación se llevará a cabo mediante diferentes instrumentos como la rúbrica, la lista de cotejo y la diana de autoevaluación.</p>
+    <p><br /></p>
+<p>1. Descripción del proyecto</p>
+<p>Este proyecto, titulado “Pequeños detectives de historias”, está dirigido al alumnado de Educación Primaria y tiene como finalidad el desarrollo de la competencia comunicativa a través de la creación de un cuento digital.</p>
+<p>A lo largo de diferentes sesiones, el alumnado conocerá las partes del cuento, analizará historias y elaborará su propio relato utilizando herramientas digitales, fomentando la creatividad, la expresión escrita y la competencia digital.</p>
+<p> </p>
+<p>2. Producto final</p>
+<p>El producto final consiste en la creación y exposición de un cuento digital elaborado con herramientas como Canva, en el que el alumnado aplicará los conocimientos adquiridos sobre la estructura del cuento (inicio, nudo y desenlace).</p>
+<p> </p>
+<p>3. Metodología</p>
+<p>Se emplea una metodología activa y participativa basada en el aprendizaje significativo, el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>
+<p>El alumnado será protagonista de su aprendizaje, participando en actividades prácticas, reflexivas y creativas.</p>
+<p> </p>
+<p>4. Atención a la diversidad (DUA)</p>
+<p>Se aplican principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo diferentes formas de representación, acción y expresión.</p>
+<p>Se adaptan las actividades según las necesidades del alumnado, proporcionando apoyos visuales, trabajo en grupo y uso de recursos digitales accesibles.</p>
+<p> </p>
+<p>5. Evaluación</p>
+<p>La evaluación será continua, formativa y global.</p>
+<p>Se utilizarán diversos instrumentos como:</p>
+<p>Rúbrica de evaluación<br />Lista de cotejo<br />Diana de autoevaluación<br />Estos instrumentos permitirán valorar tanto el proceso como el producto final, así como fomentar la reflexión del alumnado sobre su propio aprendizaje.</p>
+<p> </p>
+<p>6. Relación con criterios de evaluación</p>
+<p><br />Las actividades del proyecto están relacionadas con los criterios de evaluación del área de Lengua Castellana y Literatura, especialmente aquellos vinculados a:</p>
+<p>Comprensión de textos orales<br />Producción de textos escritos<br />Expresión oral<br />Uso de herramientas digitales<br />Este proyecto contribuye al desarrollo de la competencia digital del alumnado, fomentando un uso seguro, responsable y creativo de las tecnologías.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <table border="1" style="width: 100.047%; height: 295.2px;">
 <tbody>
 <tr style="height: 32.8px;">
